@@ -1,0 +1,11 @@
+C:\Users\huynx\source\repos\Baitap01\Baitap01\bin\Debug\Baitap01.exe.config
+C:\Users\huynx\source\repos\Baitap01\Baitap01\bin\Debug\Baitap01.exe
+C:\Users\huynx\source\repos\Baitap01\Baitap01\bin\Debug\Baitap01.pdb
+C:\Users\huynx\source\repos\Baitap01\Baitap01\obj\Debug\Baitap01.csproj.AssemblyReference.cache
+C:\Users\huynx\source\repos\Baitap01\Baitap01\obj\Debug\Baitap01.Form1.resources
+C:\Users\huynx\source\repos\Baitap01\Baitap01\obj\Debug\Baitap01.Form2.resources
+C:\Users\huynx\source\repos\Baitap01\Baitap01\obj\Debug\Baitap01.Properties.Resources.resources
+C:\Users\huynx\source\repos\Baitap01\Baitap01\obj\Debug\Baitap01.csproj.GenerateResource.cache
+C:\Users\huynx\source\repos\Baitap01\Baitap01\obj\Debug\Baitap01.csproj.CoreCompileInputs.cache
+C:\Users\huynx\source\repos\Baitap01\Baitap01\obj\Debug\Baitap01.exe
+C:\Users\huynx\source\repos\Baitap01\Baitap01\obj\Debug\Baitap01.pdb
